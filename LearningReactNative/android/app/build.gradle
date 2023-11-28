@@ -73,9 +73,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.learningreactnative"
+    namespace "com.reactnativesso.learningreactnative"
     defaultConfig {
-        applicationId "com.learningreactnative"
+        applicationId "com.reactnativesso.learningreactnative"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

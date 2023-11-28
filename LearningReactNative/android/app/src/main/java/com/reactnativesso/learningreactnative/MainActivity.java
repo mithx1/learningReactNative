@@ -1,4 +1,4 @@
-package com.learningreactnative;
+package com.reactnativesso.learningreactnative;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
